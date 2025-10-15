@@ -1,1 +1,3 @@
-# CPP---Midterm-Project---3D-Solar-System-Simulation
+Computer Graphics Programming
+
+Midterm Project - Solar System Simulation (Three.js)
